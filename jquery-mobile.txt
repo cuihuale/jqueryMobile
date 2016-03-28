@@ -1,0 +1,10 @@
+
+1、创建移动端web应用的前端框架，手机或平板，任何手机，不完全适用于PC端（由于有限的CSS3支持）。
+
+2、jQuery Mobile 解决了不同设备兼容的问题，因为它只使用HTML，CSS和 JavaScript，这是所有移动网络浏览器的标准！
+
+3、你是否想知道为什么在 <script> 标签中 没有插入 type="text/javascript" ?
+
+    在 HTML5 已经不需要该属性。 JavaScript 在所有现代浏览器中是 HTML5 的默认脚本语言！
+
+4、
