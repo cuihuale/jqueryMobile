@@ -7,4 +7,4 @@
 
     在 HTML5 已经不需要该属性。 JavaScript 在所有现代浏览器中是 HTML5 的默认脚本语言！
 
-4、
+4、jquery-mobile 的主要内容
